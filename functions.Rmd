@@ -1,0 +1,20 @@
+---
+title: "Les fonctions dans R"
+author: "Guyliann Engels & Philippe Grosjean"
+date: "`r Sys.Date()`"
+output: bookdown::html_document2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment = "#", fig.align = "center")
+```
+
+##### Objectifs {-}
+
+- créer un blog scientifique en utilisant R Markdown
+
+##### Prérequis {-}
+
+TODO
+
+

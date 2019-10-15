@@ -6,3 +6,7 @@ Ce dépot a pour objectif de contenir un ensemble de ressource afin d'expliquer 
 
 Ce document va de paire avec le dépôt qui comprend les exercices sur les fonctions disponible également sur GitHub : [functions](https://github.com/BioDataScience-Course/functions). 
 
+Vous pouvez nénamoins visualiser votre document directement avec le lien suivant :
+
+<https://htmlpreview.github.io/?https://github.com/BioDataScience-Course/functions-book/blob/master/functions.html>
+
